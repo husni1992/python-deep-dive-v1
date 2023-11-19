@@ -23,3 +23,9 @@ for number in range(1, 10):
     print(number * "*")
 else:
     print("Loop is finished")
+
+print('-------------\n')
+
+# the 3rd parameter of the range function is step, it is how much you increment each number in the sequence.
+for number in range(0, 100, 5):
+    print(number)

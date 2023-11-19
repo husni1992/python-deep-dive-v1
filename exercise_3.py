@@ -10,4 +10,5 @@ print(names[1:3])
 names.insert(0, "Ahamed")
 names.append("Foobar")
 print(names)
-print(len(names));
+print(len(names))
+
